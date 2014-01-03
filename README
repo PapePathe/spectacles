@@ -1,0 +1,24 @@
+Durant le mois de Javier la Marie de Dakar organise des spectacles destinés à différents publiques (jeune, adulte, tous (jeune et adulte)). Les spectacles sont caracterisés par une date, un nom, et un publique.
+
+Les spectacles sont de trois natures : concert, exposition d’art et théatre.
+
+Un concert se fait dans un stade, est fait par un artiste à une heure donnée.
+
+Une exposition se fait dans une salle d’exposition, une heure de debut et une heure de fin.
+
+Un thèatre se fait dans un salle, avec un nombre de personnes prévu (capacité salle). Le théatre commence à une heure bien défini. Tous les théatres commencent à la même heure.
+
+TAF : 
+•	Indiquer tous les spectacles qui ont lieu durant ce mois dans une structure de données de préference une liste.
+•	Pour une date donnée, lister les spectacles qui auront lieu à cette date.
+•	Pour une date donnée et un type de spectacle, lister les spectacles qui auront lieu.
+•	Rechercher un spectacle par artiste (concert)
+•	Permettre l’affichage du nombre de concerts, du nombre d’expositions et du nombre de théatres avec la possiblité de consulter les informations (tous les concerts, toutes les expositions et tous les theatres) 
+
+
+NB :  Dans les recherches si aucune information n’est trouvée il faut que l’utilisateur en soit informé.
+
+Il faut présenter un menu à l’utilisateur lui permettant de faire tout ce qui est demandé.
+
+Il faut obligatoirement qu’ont sente l’utilisation de l’heritage et du polymorphisme.  
+
