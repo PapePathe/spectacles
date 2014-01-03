@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spectacles", "Spectacles\Spectacles.csproj", "{B8DA4B19-B9AD-48BB-9124-2FDB94970FBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrilleProgramme", "GrilleProgramme\GrilleProgramme.csproj", "{41AAC67F-AAE8-43E8-8551-7B9B12BA3F87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8DA4B19-B9AD-48BB-9124-2FDB94970FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8DA4B19-B9AD-48BB-9124-2FDB94970FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8DA4B19-B9AD-48BB-9124-2FDB94970FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8DA4B19-B9AD-48BB-9124-2FDB94970FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41AAC67F-AAE8-43E8-8551-7B9B12BA3F87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41AAC67F-AAE8-43E8-8551-7B9B12BA3F87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41AAC67F-AAE8-43E8-8551-7B9B12BA3F87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41AAC67F-AAE8-43E8-8551-7B9B12BA3F87}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
